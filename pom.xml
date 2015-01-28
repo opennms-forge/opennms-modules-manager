@@ -27,6 +27,6 @@
     </dependencies>
 
     <modules>
-        <module>client</module>
+        <module>manager</module>
     </modules>
 </project>
